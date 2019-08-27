@@ -5,3 +5,5 @@ def bark
   
   end
 end
+
+def sit
