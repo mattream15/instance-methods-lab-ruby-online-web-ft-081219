@@ -6,9 +6,7 @@ def bark
   end
 end
 
-def sit_on_ass
-  puts "sit."
+def sit
+  puts "The Dog is sitting"
   end
-end
-
 end
