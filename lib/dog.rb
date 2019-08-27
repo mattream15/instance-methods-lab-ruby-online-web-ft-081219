@@ -7,3 +7,6 @@ def bark
 end
 
 def sit
+  puts "sit"
+end
+end
