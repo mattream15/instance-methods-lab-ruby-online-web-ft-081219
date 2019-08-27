@@ -7,7 +7,7 @@ def bark
 end
 
 def sit_on_ass
-  puts "sit"
+  puts "sit."
   end
 end
 
